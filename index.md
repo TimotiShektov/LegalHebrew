@@ -1,4 +1,4 @@
-<div style="direction: rtl; text-align: right">
+<div markdown = "1" style="direction: rtl; text-align: right">
 
 # פרויקט תיוג ישויות
 &rlm;
