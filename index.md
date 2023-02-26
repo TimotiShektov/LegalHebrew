@@ -76,9 +76,7 @@
 הופנתם לאתר התיוג עם שם משתמש וסיסמא שקיבלתם לאחר הסכמה להשתתף בפרויקט תיוג זה באתר [LightTag](https://legalhebrewnlp.lighttag.io/).  
 עם כניסתם לאתר זה הדף הראשון שרואים:
 
-<div markdown = "1" style="direction: rtl; text-align: right">
-<img src="./src pic/מסך פתיחה.png">
-</div>
+![first](./src/first.png)
 
 הזינו את שם המשתמש והסיסמא שקיבלתם ואתם מיד תועברו לפסקה הראשונה שאותה תוכלו להתחיל לתייג.  
 
