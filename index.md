@@ -69,7 +69,9 @@
    </tbody>
 </table>
 </div>
+</div>
 
+<div markdown = "1" style="direction: rtl; text-align: right">
 
 
 ### כיצד מתייגים?
